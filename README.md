@@ -2,5 +2,7 @@
 
 This is the backend of url-shortener-client. 
 
-- run npm install
-- run npm run start
+- npm install
+- npm run start
+
+At the same time, if we want to have link redirection work, please set nginx.config file. 
